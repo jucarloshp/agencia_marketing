@@ -1,0 +1,8 @@
+django==4.2.8  #Version soportada por render
+django-environ==0.11.2  #permite poner en secreto ejemplo contraseñas
+django-cors-headers==4.3.1 #Permite la comunicacion entre fronend y backend
+djangorestframework==3.14.0 #permite crear api con django
+Pillow==10.1.0  #Para trabajar con imágenes
+django-storages==1.14.2 #guardado de imágenes 
+django-ckeditor==6.7.0 #crear contenido de manera más rica
+psycopg==3.1.14  #para trabajar con postgresql
